@@ -177,3 +177,9 @@ namespace roma_rakamını_sayıya_çevirme
         }
     }
 }
+     //kaynaklar
+     //https://www.yazilimbilisim.net/c-sharp/c-console-ile-girilen-sayiyi-roma-rakamina-cevirme/
+     //http://www.gorselprogramlama.com/klavyeden-girilen-bir-sayiyi-roma-rakamina-ceviren-program-c-console/
+
+
+     //Halime Güngör-2018280022
